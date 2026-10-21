@@ -1,7 +1,5 @@
 # Employee Portal
 
-Repository: <https://github.com/employee-fullstack>
-
 A full-stack employee directory built with **Spring Boot, MySQL and Angular**. It supports the
 complete Employee CRUD flow: create an employee, browse and search the directory, fetch one
 employee by ID, update a record and delete a record.
