@@ -1,0 +1,27 @@
+# Java / Maven
+backend/target/
+*.log
+
+# Angular / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.cache/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+
+# Local run artifacts
+*.err
+*.out
+*.pid
+
+# Generated docs and project report artifacts
+docs/
